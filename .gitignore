@@ -1,5 +1,4 @@
 node_modules/
-bin/
 .project
 .settings
 test.js
